@@ -3,7 +3,7 @@ import java.util.ArrayList;
 aggregation(içerme)
 composition(oluşturma)[stronger than aggregation]
 */
-public class aggregation_example {
+public class aggregation_ex {
     public static void main(String[] args) {
         Classroom sinif = new Classroom();
         Student s1 = new Student("01","Furkan");
